@@ -13,4 +13,3 @@ transformers==4.27.1
 open-clip-torch==2.7.0
 gradio>=3.13.2
 xformers==0.0.16
-pip install git+https://github.com/bytedance/MVDream
