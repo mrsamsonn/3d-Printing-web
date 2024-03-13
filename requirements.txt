@@ -3,6 +3,7 @@ django-tailwind
 django-tailwind[reload]
 
 #MVDream Requirements
+torch
 opencv-python
 imageio
 imageio-ffmpeg
